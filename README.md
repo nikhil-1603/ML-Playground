@@ -87,9 +87,9 @@ Each algorithm generally follows:
 
 ## 📂 Repository Structure
 ```text
-ml-playground/
+ML-Playground
 │
-├── All Notebooks/
+├── All Notebooks
 │   ├── linear_regression.ipynb
 │   ├── Adaboost.ipynb
 │   ├── Random_forest.ipynb
@@ -105,6 +105,6 @@ ml-playground/
 │   ├── dbscan.ipynb
 │   ├── gradient_descent.ipynb
 │
-├── All Datasets/
-│   ├── kmeans.ipynb
+├── All Datasets
+│   
 ├── README.md
