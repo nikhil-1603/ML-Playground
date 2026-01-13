@@ -89,23 +89,22 @@ Each algorithm generally follows:
 ```text
 ml-playground/
 │
-├── supervised-learning/
+├── All Notebooks/
 │   ├── linear_regression.ipynb
+│   ├── Adaboost.ipynb
+│   ├── Random_forest.ipynb
+│   ├── Random_forest_bagging.ipynb
+│   ├── Agglomerative_clustering.ipynb
 │   ├── logistic_regression.ipynb
 │   ├── svm.ipynb
-│
-├── ensemble-learning/
 │   ├── bagging.ipynb
 │   ├── adaboost.ipynb
 │   ├── gradient_boosting.ipynb
 │   ├── voting_ensemble.ipynb
-│
-├── unsupervised-learning/
 │   ├── kmeans.ipynb
-│   ├── agglomerative_clustering.ipynb
 │   ├── dbscan.ipynb
-│
-├── optimization/
 │   ├── gradient_descent.ipynb
 │
+├── All Datasets/
+│   ├── kmeans.ipynb
 ├── README.md
